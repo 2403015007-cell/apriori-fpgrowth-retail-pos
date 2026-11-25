@@ -11,8 +11,10 @@ https://www.kaggle.com/datasets/arunsworkspace/retail-pos-dataset-for-market-bas
 Letakkan di folder yang sama dengan skrip.
 
 ## Cara menjalankan
+```bash
 pip install mlxtend==0.25.0 pandas scipy numpy
 python eksperimen_revisi.py --csv retail_pos_basket_data.csv --seed 42
+```
 
 Keluaran: hasil_ulangan_waktu.csv, hasil_skalabilitas.csv, hasil_permutasi.csv
 
