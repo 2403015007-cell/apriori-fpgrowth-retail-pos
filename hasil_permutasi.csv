@@ -1,0 +1,13 @@
+,0
+B,1000.0
+min_support,0.003
+aturan_asli,68.0
+aturan_acak_mean,72.54
+aturan_acak_sd,9.276554018300892
+p_empiris_jumlah_aturan,0.7142857142857143
+effect_size_z_jumlah,-0.48940587108569
+lift_maks_asli,1.653987455197133
+lift_maks_acak_mean,2.573070519129334
+lift_maks_acak_sd,1.8034918072798842
+p_empiris_lift_maks,0.9660339660339661
+effect_size_z_lift,-0.5096131073189669
